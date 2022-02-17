@@ -1,0 +1,36 @@
+*{
+    margin:0;
+}
+
+.outer{
+    position: absolute;
+    background-color:lightgrey;
+    margin: 30%;
+    width: 500px;
+    height: fit-content;
+}
+
+.container {
+    align-items: center;
+    margin-top:10%;
+     margin-left:10%;
+   display: flex;
+   position: relative;
+   height: fit-content;
+   
+}
+
+
+
+.btn-primary{
+    background-color: greenyellow;
+    height:30px;
+    width:100px;
+    margin-right: 3px;
+    margin-left: 4px;
+}
+.btn{
+    background-color:red;
+    height:30px;
+    width:120px;
+}
